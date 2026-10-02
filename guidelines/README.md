@@ -7,4 +7,3 @@ Collected policies and good-practice documents relevant to AI use in our work:
 - licensing of AI-generated content
 - institutional and funder policies
 
-Add documents or annotated links here as they become relevant.
